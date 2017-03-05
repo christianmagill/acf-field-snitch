@@ -4,7 +4,7 @@ Contributors: stupid_studio
 Requires at least: 3.4.0
 Tags: admin, advanced custom field, custom field, acf, fields, developer, aid, snitch
 Tested up to: 3.9.0
-Stable tag: 1.0.3
+Stable tag: 1.0.4
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 
@@ -49,6 +49,9 @@ See the screenshots. It should be pretty self explainatory.
 
 
 == Changelog ==
+
+= 1.0.4 =
+ * JavaScvript fix for ACF v5 compatability
 
 = 1.0.3 =
  * WordPress 3.9 compability
