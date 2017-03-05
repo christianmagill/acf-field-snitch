@@ -3,13 +3,13 @@
 Plugin Name: Advanced Custom Fields: Field Snitch
 Plugin URI: wordpress.org/plugins/advanced-custom-fields-field-snitch/
 Description: Double-tap Esc when editing a page containing ACF-fields, to easily inspect ACF field names and keys.
-Version: 1.0.3
+Version: 1.0.4
 Author: Stupid Studio
 Author URI: http://stupid-studio.com/
 License: GPL
 Copyright: Stupid Studio
 */
-define('ACF_FIELD_SNITCH_VERSION', '1.0.3');
+define('ACF_FIELD_SNITCH_VERSION', '1.0.4');
 
 class AcfFieldSnitch
 {
