@@ -1,6 +1,6 @@
 {
   "name": "christianmagill/acf-field-snitch",
-  "type": "wordpress-muplugin",
+  "type": "wordpress-plugin",
   "license": "MIT",
   "description": "An abandoned WordPress plugin to display ACF field names on admin screens by pressing the escape key twice.",
   "homepage": "https://roots.io/plugins/soil/",
