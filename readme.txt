@@ -4,7 +4,7 @@ Contributors: stupid_studio
 Requires at least: 3.4.0
 Tags: admin, advanced custom field, custom field, acf, fields, developer, aid, snitch
 Tested up to: 3.9.0
-Stable tag: 1.0.4
+Stable tag: 1.0.5
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 
